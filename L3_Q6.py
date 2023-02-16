@@ -1,3 +1,7 @@
+# Este quesito trás uma ideia de criptografia de mensagens através da sequencia de Fibonacci e o uso da função chr(),
+# para a transformação do numero inteiro em letra levando em consideração o a tabela de código ASCII. 
+# cheque o código abaixo para informarcoes detalhadas do algoritmo.
+
 analises = int(input())
 for a in range(analises):
 	# estrutura de msg_codificada: 00 x-y
