@@ -59,3 +59,4 @@ for a in range(analises):
 	split_msg_codificada.clear()
 	t3_algarismos.clear()
     
+    
