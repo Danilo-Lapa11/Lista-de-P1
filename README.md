@@ -2,6 +2,10 @@
 Repositório destinado aos exercícios da cadeira de Programação 1, na qual utilizamos Python
 
 Lista 1 - Operadores Condicionais
+  
+  lslsl
+  
+  lssl
 
 Lista 2 - Laços de Repetições
 
