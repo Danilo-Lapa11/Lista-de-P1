@@ -6,3 +6,5 @@ Lista 1 - Operadores Condicionais
 Lista 2 - Laços de Repetições
 
 Lista 3 - Listas
+
+Lista 4 - Funções
