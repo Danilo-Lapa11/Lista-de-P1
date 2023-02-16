@@ -1,4 +1,4 @@
-# Lista-de-P1
+# Listas de P1
 Repositório destinado aos exercícios da cadeira de Programação 1, na qual utilizamos Python
 
 Lista 1 - Operadores Condicionais
